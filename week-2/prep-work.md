@@ -72,7 +72,7 @@ So far we've focussed on reading records using [the SQL SELECT statement](https:
 
 [An SQL INSERT statement](https://en.wikipedia.org/wiki/Insert_(SQL)) adds one or more records to a single table.
 
-Let's try it out with an example using the sample database (again you can use [the online SQLite viewer](https://inloop.github.io/sqlite-viewer/) and upload [our sample database file](./chinook.sqlite)).
+Let's try it out with an example using the sample database (again you can use [the online SQLite viewer](https://inloop.github.io/sqlite-viewer/) and upload [our sample database file](./chinook-database/chinook.sqlite)).
 
 <details><summary>Add an artist</summary>
 
