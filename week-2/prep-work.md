@@ -42,7 +42,7 @@ A pair of tables bears [a many-to-many relationship](https://en.wikipedia.org/wi
 
 Extra resources:
 
-- [LinkedIn Learning - Defining table relationships](https://www.youtube.com/watch?v=V5DyvUfsboA)
+- [Defining table relationships](https://www.youtube.com/watch?v=byPse1R-7U4)
 - [Prescott Computer Guy - Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
 
 ## Joins in SQL
